@@ -1,0 +1,31 @@
+{
+    "name": "laravel-elixir-packaer",
+    "version": "1.0.0",
+    "description": "Laravel Elixir wrapper around packer Gulp task.",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "gulp",
+        "laravel",
+        "elixir",
+        "packer"
+    ],
+    "author": "DraperStdio",
+    "license": "MIT",
+    "homepage": "https://github.com/DraperStudio/Laravel-Elixir-Packer",
+    "bugs": "https://github.com/DraperStudio/Laravel-Elixir-Packer/issues",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/DraperStudio/Laravel-Elixir-Packer"
+    },
+    "dependencies": {
+        "gulp": "^3.8.8",
+        "packer": "0.0.6",
+        "filendir": "0.0.1",
+        "gulp-notify": "^2.2.0",
+        "underscore": "^1.8.3",
+        "laravel-elixir": "^2.0.0"
+    }
+}
