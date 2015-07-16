@@ -1,5 +1,5 @@
 {
-    "name": "laravel-elixir-packaer",
+    "name": "laravel-elixir-packer",
     "version": "1.0.0",
     "description": "Laravel Elixir wrapper around packer Gulp task.",
     "main": "index.js",
